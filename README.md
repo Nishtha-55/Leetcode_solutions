@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -43,4 +44,8 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
