@@ -60,4 +60,8 @@
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
