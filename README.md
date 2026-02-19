@@ -25,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -34,6 +35,7 @@
 ## String
 |  |
 | ------- |
+| [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
