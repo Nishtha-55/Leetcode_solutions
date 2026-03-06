@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -30,6 +31,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
