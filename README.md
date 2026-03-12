@@ -15,6 +15,7 @@
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
 |  |
@@ -40,6 +42,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
 |  |
 | ------- |
