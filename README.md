@@ -16,6 +16,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3151-special-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3151-special-array-i) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -44,6 +45,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
@@ -106,6 +108,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
