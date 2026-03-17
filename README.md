@@ -127,6 +127,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0707-design-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
