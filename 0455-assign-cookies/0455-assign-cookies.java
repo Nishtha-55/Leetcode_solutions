@@ -10,16 +10,10 @@ class Solution {
         if(s[j]>=g[i])
         {
             count++;
-            j++;
             i++;
         }
-        else if(g[i]>s[j])
-        {
-            j++;
+        j++; //increase the j and check for satisfactory element available 
         }
-          else
-        {i++;}
-       }
         return count;
     }
 }
