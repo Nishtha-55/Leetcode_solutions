@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
@@ -130,6 +131,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0707-design-linked-list) |
@@ -167,5 +169,6 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
