@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -138,6 +140,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0707-design-linked-list) |
