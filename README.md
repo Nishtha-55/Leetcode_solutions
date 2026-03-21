@@ -23,6 +23,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3637-trionic-array-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [3643-flip-square-submatrix-vertically](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 <!---LeetCode Topics End-->
