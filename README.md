@@ -100,6 +100,7 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Counting
 |  |
@@ -170,6 +171,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
@@ -190,4 +192,8 @@
 |  |
 | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
