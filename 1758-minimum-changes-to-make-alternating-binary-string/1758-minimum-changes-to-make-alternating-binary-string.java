@@ -23,3 +23,4 @@ class Solution {
       return Math.min(start_with_0,start_with_1);
     }
 }
+//we can remove start with 1 variable cause it is just opposite of start with 0 and after getting start with 1 , subtract from length and get 
