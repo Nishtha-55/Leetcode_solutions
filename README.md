@@ -88,6 +88,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -100,6 +101,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Greedy
 |  |
@@ -218,4 +220,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
