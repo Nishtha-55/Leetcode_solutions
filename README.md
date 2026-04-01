@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
@@ -30,6 +31,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1200-minimum-absolute-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -50,6 +52,7 @@
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -72,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -131,6 +135,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -141,6 +146,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
