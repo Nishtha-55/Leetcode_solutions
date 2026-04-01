@@ -88,6 +88,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -96,12 +97,14 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -228,4 +231,8 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
