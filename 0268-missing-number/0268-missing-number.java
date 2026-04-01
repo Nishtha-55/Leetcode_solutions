@@ -13,8 +13,7 @@ class Solution {
      }
 
 }
-
-        // approach 2
+        // approach 1
        /* Arrays.sort(nums);
         int n=nums.length;
         int sum = n*(n+1)/2;
