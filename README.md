@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -239,6 +243,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
