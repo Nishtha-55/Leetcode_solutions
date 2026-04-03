@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
