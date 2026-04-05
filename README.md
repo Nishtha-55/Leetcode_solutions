@@ -91,6 +91,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -198,6 +199,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [1929-concatenation-of-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
