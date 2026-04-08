@@ -33,6 +33,7 @@
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3637-trionic-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
 |  |
@@ -211,6 +212,7 @@
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -235,6 +237,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Merge Sort
 |  |
 | ------- |
