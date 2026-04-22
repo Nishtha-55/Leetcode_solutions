@@ -30,3 +30,9 @@ class Solution {
         return sum;
     }
 }
+//Approach 
+/* Use a stack to store scores:
+When you see a number → push it
+"+" → pop top, peek next, compute sum, push both back properly
+"D" → push 2 × top
+"C" → pop*/
