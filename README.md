@@ -28,6 +28,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3151-special-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3151-special-array-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -55,6 +56,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Heap (Priority Queue)
@@ -187,6 +189,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
