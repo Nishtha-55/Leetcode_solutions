@@ -197,6 +197,7 @@
 | [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Backtracking
 |  |
 | ------- |
