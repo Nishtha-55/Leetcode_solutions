@@ -9,7 +9,6 @@ class Solution
             if(nums[i]<0)
               sign= -sign;
         }
-        return sign;
-        
+        return sign;   
     }
 }
