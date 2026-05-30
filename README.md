@@ -197,6 +197,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
+| [2469-convert-the-temperature](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
