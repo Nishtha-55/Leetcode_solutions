@@ -34,6 +34,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
 | [3151-special-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3151-special-array-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -202,6 +203,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
