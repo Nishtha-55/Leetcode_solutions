@@ -57,6 +57,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [2942-find-words-containing-character](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3019-number-of-changing-keys) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
+| [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Tree
 |  |
 | ------- |
@@ -274,6 +276,7 @@
 | [2974-minimum-number-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2974-minimum-number-game) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 ## Doubly-Linked List
 |  |
 | ------- |
