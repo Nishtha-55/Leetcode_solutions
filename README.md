@@ -26,6 +26,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -67,6 +68,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
