@@ -148,6 +148,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3019-number-of-changing-keys) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
@@ -198,6 +199,7 @@
 ## Counting
 |  |
 | ------- |
+| [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
