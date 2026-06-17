@@ -1,40 +1,42 @@
 class Solution {
     public char processStr(String s, long k) {
         int n = s.length();
-        long len = 0;
+        long[] len = new long[n];
+
+        long cur = 0;
 
         for (int i = 0; i < n; i++) {
             char c = s.charAt(i);
-            if (c == '*')
-                len = Math.max(len - 1, 0L);
-            else if (c == '#')
-                len *= 2;
-            else if (c != '%')
-                len++;
+
+            if (c >= 'a' && c <= 'z') {
+                cur++;
+            } else if (c == '*') {
+                cur = Math.max(0, cur - 1);
+            } else if (c == '#') {
+                cur *= 2;
+            }
+
+            len[i] = cur;
         }
 
-        if (k >= len)
-            return '.';
+        if (k >= cur) return '.';
 
-        for (int i = n - 1; ; i--) {
+        for (int i = n - 1; i >= 0; i--) {
             char c = s.charAt(i);
-            switch (c) {
-                case '*':
-                    len++;
-                    break;
-                case '#':
-                    if (k >= len / 2)
-                        k -= len / 2;
-                    len /= 2;
-                    break;
-                case '%':
-                    k = len - 1 - k;
-                    break;
-                default:
-                    if (len == k + 1)
-                        return c;
-                    len--;
+
+            if (c >= 'a' && c <= 'z') {
+                if (len[i] - 1 == k) {
+                    return c;
+                }
+            }
+            else if (c == '#') {
+                k %= (len[i] / 2);
+            }
+            else if (c == '%') {
+                k = len[i] - 1 - k;
             }
         }
+
+        return '.';
     }
 }
