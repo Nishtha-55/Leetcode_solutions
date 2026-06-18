@@ -225,6 +225,7 @@
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
