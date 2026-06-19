@@ -19,6 +19,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -305,6 +306,7 @@
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
