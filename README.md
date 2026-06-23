@@ -315,6 +315,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Design
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Binary Search Tree
