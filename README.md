@@ -60,6 +60,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
@@ -112,6 +113,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Two Pointers
@@ -215,6 +217,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,6 +324,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -334,10 +338,12 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -384,4 +390,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
