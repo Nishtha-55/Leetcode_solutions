@@ -26,6 +26,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -158,6 +159,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
