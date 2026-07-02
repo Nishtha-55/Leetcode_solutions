@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
@@ -104,6 +105,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -335,6 +337,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
