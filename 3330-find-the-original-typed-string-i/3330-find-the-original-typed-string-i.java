@@ -5,7 +5,6 @@ class Solution {
             if(word.charAt(i)==word.charAt(i-1))
             ans++;
         }
-        ans=ans+1;
-        return ans;
+        return ans+1;
     }
 }
