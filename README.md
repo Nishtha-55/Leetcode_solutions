@@ -180,6 +180,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3019-number-of-changing-keys) |
+| [3136-valid-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
