@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
@@ -399,6 +402,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -440,4 +444,8 @@
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
