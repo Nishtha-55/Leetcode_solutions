@@ -73,6 +73,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3895-count-digit-appearances) |
 ## Sorting
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3895-count-digit-appearances](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3895-count-digit-appearances) |
 ## Backtracking
 |  |
 | ------- |
