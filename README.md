@@ -274,6 +274,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1837-sum-of-digits-in-base-k) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2469-convert-the-temperature](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
