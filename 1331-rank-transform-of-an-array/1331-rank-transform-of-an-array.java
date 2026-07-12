@@ -1,6 +1,6 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
-        int a[]=arr.clone();
+        int a[]=arr.clone();    //The clone() method in Java arrays creates and returns a new array object containing the exact same elements (or object references) as the source array
         Arrays.sort(a);
          HashMap<Integer, Integer> rank = new HashMap<>();
         int currentRank = 1;
