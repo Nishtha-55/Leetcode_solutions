@@ -182,6 +182,7 @@
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1328-break-a-palindrome](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -240,6 +241,7 @@
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
