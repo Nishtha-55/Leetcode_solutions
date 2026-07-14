@@ -241,6 +241,7 @@
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0948-bag-of-tokens) |
+| [0991-broken-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -283,6 +284,7 @@
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0991-broken-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
