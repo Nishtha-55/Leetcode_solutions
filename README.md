@@ -38,6 +38,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -93,6 +94,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
@@ -244,6 +246,7 @@
 | [0991-broken-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1328-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
