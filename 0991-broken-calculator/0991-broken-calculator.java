@@ -1,6 +1,5 @@
 class Solution {
     public int brokenCalc(int startValue, int target) {
-        int ans=0;
         if(startValue >= target)
        return startValue-target;
         if(target%2==0)
