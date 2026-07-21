@@ -1,5 +1,7 @@
 class Solution {
     public boolean hasAllCodes(String s, int k) {
+        if (s.length() < k) 
+        return false;
         int codes=(int)Math.pow(2,k);
         HashSet<String> st=new HashSet<>();
         for(int i=k;i<=s.length();i++)
