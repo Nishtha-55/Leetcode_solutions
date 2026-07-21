@@ -2,12 +2,20 @@ class Solution {
     public int[] findArray(int[] pref) {
         //logic pref[i]^pref[i-1]=ans[i]
         //property used - xor operation , cummutative and associative
-        int ans[]=new int[pref.length];
+      int n=pref.length;
+      for(int i=n-1;i>0;i--){
+        pref[i]=pref[i]^pref[i-1];
+      }
+      return pref;
+    }
+}
+
+
+//ELABORATED SOLUTION
+  /*int ans[]=new int[pref.length];
         //prefix of zero to wahi hoga 
         ans[0]=pref[0];
         for(int i=1;i<pref.length;i++){
             ans[i]=pref[i]^pref[i-1];
         }
-return ans;
-    }
-}
+return ans;*/
