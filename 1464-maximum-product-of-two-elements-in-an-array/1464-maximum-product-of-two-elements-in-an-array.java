@@ -1,7 +1,7 @@
 
 class Solution {
     public int maxProduct(int[] nums) {
-       /* int largest=0;
+       int largest=0;
         int n= nums.length;
         int second_largest=0;
     
@@ -18,10 +18,10 @@ class Solution {
 
           }
         }
-        return (largest-1)*(second_largest-1);*/
-        Arrays.sort(nums);
+        return (largest-1)*(second_largest-1);
+      /*  Arrays.sort(nums);
         int n=nums.length;
-        return (nums[n-1]-1)*(nums[n-2]-1);
+        return (nums[n-1]-1)*(nums[n-2]-1);*/
     }
 }
 // find largest and second largest element and multiply them
