@@ -172,6 +172,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -212,6 +213,7 @@
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
@@ -265,6 +267,7 @@
 | [2126-destroying-asteroids](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
