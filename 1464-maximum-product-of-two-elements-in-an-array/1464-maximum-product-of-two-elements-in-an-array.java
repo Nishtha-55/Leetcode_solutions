@@ -12,9 +12,9 @@ class Solution {
             second_largest=largest;
             largest=num;
           }
-          else
+          else if(num>second_largest)
           {
-            second_largest=Math.max(second_largest,num);
+            second_largest=num;
 
           }
         }
