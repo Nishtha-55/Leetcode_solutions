@@ -59,6 +59,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2965-find-missing-and-repeated-values](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2974-minimum-number-game) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -310,6 +311,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
