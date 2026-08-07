@@ -555,4 +555,8 @@
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
