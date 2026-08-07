@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
@@ -95,6 +96,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -168,6 +170,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
