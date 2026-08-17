@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
@@ -101,6 +102,7 @@
 | [0016-3sum-closest](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -143,6 +145,7 @@
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -303,6 +306,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -460,6 +464,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -566,4 +571,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
