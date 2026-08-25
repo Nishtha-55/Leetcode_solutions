@@ -225,6 +225,7 @@
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
+| [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0443-string-compression](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
@@ -310,6 +311,7 @@
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -351,6 +353,7 @@
 | [0002-add-two-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -496,6 +499,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
