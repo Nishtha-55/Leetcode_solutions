@@ -101,6 +101,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |
@@ -470,6 +471,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Design
 |  |
 | ------- |
