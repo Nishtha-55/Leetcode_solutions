@@ -102,6 +102,7 @@
 | [3838-weighted-word-mapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3838-weighted-word-mapping) |
 | [3895-count-digit-appearances](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -472,6 +473,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Design
 |  |
 | ------- |
