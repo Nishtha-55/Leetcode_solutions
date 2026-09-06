@@ -337,6 +337,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0401-binary-watch) |
+| [0476-number-complement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
