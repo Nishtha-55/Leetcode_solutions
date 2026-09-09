@@ -230,6 +230,7 @@
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
@@ -318,6 +319,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
@@ -510,6 +512,7 @@
 | [0206-reverse-linked-list](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Matrix
 |  |
 | ------- |
