@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
