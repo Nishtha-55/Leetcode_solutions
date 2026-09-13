@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
@@ -113,6 +114,7 @@
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2974-minimum-number-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2974-minimum-number-game) |
@@ -160,6 +163,7 @@
 | [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
@@ -329,6 +333,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -495,6 +500,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -621,4 +627,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
