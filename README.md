@@ -82,6 +82,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
@@ -137,6 +138,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3024-type-of-triangle) |
+| [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
