@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
@@ -111,6 +112,7 @@
 | [0015-3sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
@@ -638,4 +640,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
