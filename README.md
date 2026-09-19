@@ -285,6 +285,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -297,6 +298,7 @@
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -306,6 +308,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -656,4 +659,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
