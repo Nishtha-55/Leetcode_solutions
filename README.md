@@ -273,6 +273,7 @@
 | [3019-number-of-changing-keys](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3019-number-of-changing-keys) |
 | [3136-valid-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3330-find-the-original-typed-string-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3606-coupon-code-validator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -476,6 +477,7 @@
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2974-minimum-number-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2974-minimum-number-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
