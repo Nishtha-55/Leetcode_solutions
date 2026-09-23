@@ -41,6 +41,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1550-three-consecutive-odds) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -179,6 +180,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
@@ -228,6 +230,7 @@
 | [0069-sqrtx](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
@@ -443,6 +446,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
@@ -500,6 +504,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
