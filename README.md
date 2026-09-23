@@ -245,6 +245,7 @@
 | [0012-integer-to-roman](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
