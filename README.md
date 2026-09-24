@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0477-total-hamming-distance](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
@@ -367,6 +368,7 @@
 | [0338-counting-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0476-number-complement) |
+| [0477-total-hamming-distance](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -391,6 +393,7 @@
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
