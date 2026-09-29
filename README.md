@@ -249,6 +249,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
