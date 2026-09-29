@@ -312,6 +312,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0572-subtree-of-another-tree) |
@@ -609,6 +610,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting Sort
@@ -644,6 +646,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
 |  |
@@ -707,4 +710,12 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
