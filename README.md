@@ -386,6 +386,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1310-xor-queries-of-a-subarray) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -408,6 +409,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0991-broken-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
