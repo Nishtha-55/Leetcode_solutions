@@ -383,6 +383,7 @@
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1310-xor-queries-of-a-subarray) |
