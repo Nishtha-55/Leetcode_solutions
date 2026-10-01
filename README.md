@@ -30,6 +30,7 @@
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0832-flipping-an-image](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
@@ -222,6 +223,7 @@
 | [0443-string-compression](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -383,6 +385,7 @@
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -495,6 +498,7 @@
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1929-concatenation-of-array) |
@@ -576,6 +580,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
