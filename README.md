@@ -255,6 +255,7 @@
 | [0012-integer-to-roman](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
@@ -353,6 +354,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
@@ -598,6 +600,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -684,6 +687,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
