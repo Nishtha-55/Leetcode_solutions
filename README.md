@@ -264,6 +264,7 @@
 | [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0948-bag-of-tokens) |
@@ -360,6 +362,7 @@
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -605,6 +608,7 @@
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0338-counting-bits) |
+| [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
@@ -688,6 +692,7 @@
 | [0020-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
