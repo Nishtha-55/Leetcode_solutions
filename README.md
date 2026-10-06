@@ -267,6 +267,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -342,6 +343,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1328-break-a-palindrome) |
@@ -364,6 +366,7 @@
 | [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
@@ -693,6 +696,7 @@
 | [0022-generate-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Manacher
 |  |
