@@ -18,6 +18,7 @@
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
