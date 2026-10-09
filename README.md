@@ -48,6 +48,7 @@
 | [1550-three-consecutive-odds](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -191,6 +192,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
@@ -283,6 +285,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -383,6 +386,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -411,6 +415,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
