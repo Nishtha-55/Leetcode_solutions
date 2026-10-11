@@ -74,6 +74,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2751-robot-collisions](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2751-robot-collisions) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -483,6 +484,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
