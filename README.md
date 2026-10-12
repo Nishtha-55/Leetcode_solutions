@@ -27,6 +27,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0682-baseball-game) |
@@ -403,6 +404,7 @@
 | [0401-binary-watch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0477-total-hamming-distance) |
+| [0526-beautiful-arrangement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -481,6 +483,7 @@
 | [0079-word-search](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0093-restore-ip-addresses) |
 | [0401-binary-watch](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0401-binary-watch) |
+| [0526-beautiful-arrangement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 ## Enumeration
 |  |
 | ------- |
@@ -626,6 +629,7 @@
 | [0053-maximum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0338-counting-bits) |
+| [0526-beautiful-arrangement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -758,4 +762,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0207-course-schedule) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
