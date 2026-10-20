@@ -211,6 +211,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
@@ -313,6 +314,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3019-number-of-changing-keys) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
