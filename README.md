@@ -289,6 +289,7 @@
 | [0224-basic-calculator](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0392-is-subsequence](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0394-decode-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
