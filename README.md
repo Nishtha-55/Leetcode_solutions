@@ -64,6 +64,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2032-two-out-of-three](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2032-two-out-of-three) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2126-destroying-asteroids) |
@@ -210,6 +211,7 @@
 | [1763-longest-nice-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2032-two-out-of-three) |
 | [2540-minimum-common-value](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2540-minimum-common-value) |
 | [2784-check-if-array-is-good](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -452,6 +454,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1763-longest-nice-substring) |
+| [2032-two-out-of-three](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2032-two-out-of-three) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
