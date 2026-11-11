@@ -398,6 +398,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
 | ------- |
@@ -516,6 +517,7 @@
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3895-count-digit-appearances) |
 ## Backtracking
