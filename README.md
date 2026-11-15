@@ -47,6 +47,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1550-three-consecutive-odds) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1672-richest-customer-wealth) |
@@ -488,6 +489,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -610,6 +612,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
@@ -688,6 +691,7 @@
 | [0526-beautiful-arrangement](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0526-beautiful-arrangement) |
 | [0678-valid-parenthesis-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2463-minimum-total-distance-traveled](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
