@@ -337,6 +337,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2833-furthest-point-from-origin) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3120-count-the-number-of-special-characters-i) |
