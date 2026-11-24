@@ -106,6 +106,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3394-check-if-grid-can-be-cut-into-sections](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3394-check-if-grid-can-be-cut-into-sections) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3488-closest-equal-element-queries](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3488-closest-equal-element-queries) |
@@ -524,6 +525,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -554,6 +556,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
@@ -567,6 +570,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -773,6 +777,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Rolling Hash
 |  |
 | ------- |
