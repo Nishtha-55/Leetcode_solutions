@@ -58,6 +58,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1816-truncate-sentence](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1829-maximum-xor-for-each-query](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1882-process-tasks-using-servers](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1882-process-tasks-using-servers) |
@@ -476,6 +477,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1720-decode-xored-array) |
 | [1763-longest-nice-substring](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1763-longest-nice-substring) |
+| [1829-maximum-xor-for-each-query](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [2032-two-out-of-three](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2032-two-out-of-three) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -634,6 +636,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [1829-maximum-xor-for-each-query](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/1829-maximum-xor-for-each-query) |
 | [2574-left-and-right-sum-differences](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nishtha-55/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
